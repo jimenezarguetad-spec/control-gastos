@@ -1,0 +1,15 @@
+{
+  "name": "control-gastos",
+  "version": "1.0.0",
+  "description": "App de control de gastos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
